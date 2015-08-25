@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/21 15:25:16.835.bdsproj,C:\Users\zhour\Documents\RAD Studio\Projects\Project1.bdsproj=C:\Users\zhour\Documents\RAD Studio\Projects\AutoUpdate.bdsproj</Transaction>
+    <Transaction>2012/10/21 15:25:49.826.pas,C:\Users\zhour\Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi练习\GGJ2009快速安装工具\自动更新\AutoUpdate.pas</Transaction>
+    <Transaction>2012/10/21 15:25:49.826.dfm,C:\Users\zhour\Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi练习\GGJ2009快速安装工具\自动更新\AutoUpdate.dfm</Transaction>
+    <Transaction>2012/10/21 15:26:13.588.bdsproj,C:\Users\zhour\Documents\RAD Studio\Projects\AutoUpdate.bdsproj=E:\Delphi练习\GGJ2009快速安装工具\自动更新\Update.bdsproj</Transaction>
+    <Transaction>2012/12/11 18:15:59.037.pas,D:\小工具\新GGJ快速安装工具\自动更新\DirTools.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
